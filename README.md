@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dylan known as Rabie_Rabit (@RabieRabit)
-- 👀 I’m interested in Java, HTML, CSS, PHP and JS
+- 👀 I’m interested in Java, HTML, CSS, PHP, JS, Java and Python
 - 🌱 I’m currently expanding my knowledge while looking for work.
 - 💞️ I’m looking to collaborate on anything that could help me learn more.
 
